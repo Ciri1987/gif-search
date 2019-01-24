@@ -1,0 +1,15 @@
+{
+  "name": "gif-search-machine",
+  "version": "1.0.0",
+  "description": "gif-searcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "author": "Anna Strzala",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}

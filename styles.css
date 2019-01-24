@@ -1,0 +1,27 @@
+body {
+    margin-top: 50px;
+
+    font-family: 'Bangers', cursive;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: linear-gradient(rgb(195, 47, 116), rgb(218, 150, 197), rgb(212, 178, 194)) fixed;
+}
+
+h1,
+p {
+    text-align: center;
+    padding: 30px;
+}
+
+
+input {
+    text-align: center;
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+}
