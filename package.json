@@ -10,6 +10,6 @@
   "author": "Anna Strzala",
   "license": "ISC",
   "devDependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   }
 }
